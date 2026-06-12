@@ -1,6 +1,4 @@
-# cybersecurity-studies
-
-My journey learning cybersecurity from scratch
+# My journey learning cybersecurity from scratch
 
 # Junior Araújo — Cybersecurity Studies
 
