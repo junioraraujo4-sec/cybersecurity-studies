@@ -1,34 +1,51 @@
-# My journey learning cybersecurity from scratch
+# 🛡️ Cybersecurity Studies — Junior Araújo
 
-# Junior Araújo — Cybersecurity Studies
+---
 
-# 📚 Currently Learning
-- Networking fundamentals (LAN, OSI Model, TCP/IP)
-- Linux basics
+## 📚 Currently Studying
+
 - TryHackMe — Pre Security path
--  Google Cybersecurity Certificate (Coursera) — in progress
+- Google Cybersecurity Certificate (Coursera) — in progress
 
-# 🛠️ Tools I'm Learning
+---
+
+## 🛠️ Tools I'm Learning
+
 - Kali Linux
 - dirb
-- Python
 - Wireshark (soon)
+- SIEM (soon)
+- Python (soon)
 
-# 📂 What You'll Find Here
-- Notes from TryHackMe challenges
-- Commands and tools reference
-- Write-ups of completed rooms
+---
 
-# 🌱 Roadmap
+## 📂 Repository Structure
+
+| Folder | Content |
+|---|---|
+| [networking](./networking/notes.md) | Networking fundamentals notes |
+| linux | Linux basics and commands (coming soon) |
+| tryhackme | Write-ups and challenge notes (coming soon) |
+| google-cybersecurity | Google course notes (coming soon) |
+| tools | Tools reference and commands (coming soon) |
+
+---
+
+## 📈 Study Roadmap
+
+- [x] Started cybersecurity studies
+- [x] Created study repository
+- [x] Completed first TryHackMe room
+- [x] Learned networking fundamentals
 - [ ] Complete TryHackMe Pre-Security
 - [ ] Complete Google Cybersecurity Certificate
 - [ ] Complete SOC Level 1
 - [ ] Complete Jr Penetration Tester
 - [ ] Get eJPT certification
 - [ ] Get CompTIA Security+
-- [ ] First job in cybersecurity
 
-# 📫
-- 🌍 Location: Brazil
-- 🎯 Open to: Remote international opportunities
+---
+
+> ⚠️ **Golden Rule:** Never use security tools on real targets 
+> without written permission. This is a crime in Brazil and worldwide.
 
