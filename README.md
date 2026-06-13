@@ -17,6 +17,7 @@ Land my first cybersecurity job and work remotely for international companies.
 # 🛠️ Tools I'm Learning
 - Kali Linux
 - dirb
+- Python
 - Wireshark (soon)
 
 # 📂 What You'll Find Here
