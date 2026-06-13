@@ -46,6 +46,4 @@
 
 ---
 
-> ⚠️ **Golden Rule:** Never use security tools on real targets 
-> without written permission. This is a crime in Brazil and worldwide.
 
