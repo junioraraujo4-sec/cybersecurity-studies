@@ -12,6 +12,7 @@ Land my first cybersecurity job and work remotely for international companies.
 - Networking fundamentals (LAN, OSI Model, TCP/IP)
 - Linux basics
 - TryHackMe — Pre Security path
+-  Google Cybersecurity Certificate (Coursera) — in progress
 
 # 🛠️ Tools I'm Learning
 - Kali Linux
@@ -25,6 +26,7 @@ Land my first cybersecurity job and work remotely for international companies.
 
 # 🌱 Roadmap
 - [ ] Complete TryHackMe Pre-Security
+- [ ] Complete Google Cybersecurity Certificate
 - [ ] Complete SOC Level 1
 - [ ] Complete Jr Penetration Tester
 - [ ] Get eJPT certification
